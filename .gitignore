@@ -1,0 +1,4 @@
+*.jar
+
+**/hsqldb
+**/logs
